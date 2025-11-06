@@ -1,6 +1,6 @@
 # PenguinFashion | Premium Winter Wear E-Commerce
 
-##### Note: This page i used many unsplash.com website images.
+### Note: This page i used many unsplash.com website images.
 
 An elegant, responsive, and accessible static storefront prototype for a winter wear brand. This repository is designed to impress clients and hiring managers: polished UI, clear architecture, example workflows, and easy paths to production.
 
@@ -24,7 +24,7 @@ An elegant, responsive, and accessible static storefront prototype for a winter 
 
 ## Demo
 
-#### Open `index.html` locally, or serve the project with a simple static server to experience the full UI and cart flows.
+### Open `index.html` locally, or serve the project with a simple static server to experience the full UI and cart flows.
 
 ## Why this project
 
@@ -69,10 +69,17 @@ Use this repo as a portfolio piece, a launchpad for production, or a reference i
 1. **Clone repository:**
 
 ```powershell
-git clone https://github.com/go-kawser/PenguinFashion-Modern-Winter-Wear-E-Commerce.git
+git clone https://github.com/md-abu-kayser/PenguinFashion-Modern-Winter-Wear-E-Commerce.git
 ```
 
-2. Open project:
+2. **github live link:**
+
+```powershell
+https://md-abu-kayser.github.io/PenguinFashion-Modern-Winter-Wear-E-Commerce/
+
+```
+
+3. Open project:
 
 install `Live Server` in VS Code for live reload while editing.
 
@@ -120,7 +127,7 @@ CI tip: Add a lightweight GitHub Action to validate HTML/CSS and deploy to your 
 
 ---
 
-## Accessibility and performance
+### Accessibility and performance
 
 - Semantic markup, keyboard focus styles, and ARIA attributes where necessary.
 - Images use `loading="lazy"` and explicit dimensions for layout stability.
@@ -140,18 +147,27 @@ I can add `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` if you want a polished cont
 
 ---
 
-## License and Contact
+### License
 
-This project is available under the MIT License. Add a `LICENSE` file to the repo root (I can create one for you).
-
-For client inquiries or professional work, please link to your GitHub profile or add a business email here. **Email:** `abu.kayser.official@gmail.com`.
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
 
 ---
 
-**If you want, I will:**
+### Contact and Maintainer
 
-- Add a large hero screenshot and product screenshots to `README.md` for visual impact.
-- Create a `LICENSE` file (MIT) and `CONTRIBUTING.md`.
-- Scaffold a GitHub Actions workflow to publish to GitHub Pages automatically.
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _PenguinFashion-Modern-Winter-Wear-E-Commerce_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**  
+It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for portfolio showcases or professional demos.
 
 ---
