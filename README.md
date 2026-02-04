@@ -154,7 +154,7 @@ I can add `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` if you want a polished cont
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
 **Name:** Md Abu Kayser - Full-Stack Engineer
